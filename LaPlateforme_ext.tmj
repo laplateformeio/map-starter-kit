@@ -1811,7 +1811,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"office.tmj#from-ext-top"
+                         "value":"LaPlateforme.tmj#from-ext-top"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1879,7 +1879,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"office.tmj#from-ext-right"
+                         "value":"LaPlateforme.tmj#from-ext-right"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1896,7 +1896,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"office.tmj#from-ext-left"
+                         "value":"LaPlateforme.tmj#from-ext-left"
                         }],
                  "rotation":0,
                  "type":"area",
