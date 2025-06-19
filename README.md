@@ -41,6 +41,7 @@ We recommend following this file structure:
 
 ## 🛠️ Installation and Testing
 
+
 With npm installed (which comes with [Node.js](https://nodejs.org/en/)), run the following command in the root directory of the project:
 
 ```bash
