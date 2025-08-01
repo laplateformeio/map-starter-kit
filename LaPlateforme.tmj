@@ -939,7 +939,7 @@
                  "y":95
                 }, 
                 {
-                 "height":368,
+                 "height":419.666666666667,
                  "id":16,
                  "name":"jitsiMeetingRoom_LittleConference",
                  "properties":[
@@ -966,9 +966,9 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":492,
-                 "x":486,
-                 "y":112
+                 "width":553.666666666667,
+                 "x":442.333333333333,
+                 "y":89.6666666666667
                 }, 
                 {
                  "height":293,
@@ -1600,6 +1600,28 @@
                  "width":255.333333333333,
                  "x":991,
                  "y":1840.58333333333
+                }, 
+                {
+                 "height":1930.66666666667,
+                 "id":45,
+                 "name":"ChatZone",
+                 "properties":[
+                        {
+                         "name":"chatDescription",
+                         "type":"string",
+                         "value":"test"
+                        }, 
+                        {
+                         "name":"chatName",
+                         "type":"string",
+                         "value":"Global"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":2264,
+                 "x":-14.6666666666667,
+                 "y":-8
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1831,7 +1853,7 @@
          "y":0
         }],
  "nextlayerid":83,
- "nextobjectid":43,
+ "nextobjectid":48,
  "orientation":"orthogonal",
  "properties":[
         {
@@ -1860,7 +1882,7 @@
          "value":"src\/main.ts"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.11.2",
+ "tiledversion":"1.11.0",
  "tileheight":32,
  "tilesets":[
         {
